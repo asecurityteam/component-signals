@@ -1,9 +1,9 @@
-<a id="markdown-component-connstate---settings-component-for-collecting-http-server-metrics" name="component-connstate---settings-component-for-collecting-http-server-metrics"></a>
+<a id="markdown-component-signals---settings-component-for-shutdown-signaling" name="component-signals---settings-component-for-shutdown-signaling"></a>
 # component-signals - Settings component for shutdown signaling
 
 <!-- TOC -->
 
-- [component-connstate - Settings component for collecting HTTP server metrics](#component-connstate---settings-component-for-collecting-http-server-metrics)
+- [component-signals - Settings component for shutdown signaling](#component-signals---settings-component-for-shutdown-signaling)
     - [Overview](#overview)
     - [Quick Start](#quick-start)
     - [Status](#status)
