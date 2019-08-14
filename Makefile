@@ -1,6 +1,5 @@
 TAG := $(shell git rev-parse --short HEAD)
 DIR := $(shell pwd -L)
-endif
 
 dep:
 	docker run -ti \
