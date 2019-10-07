@@ -1,6 +1,6 @@
 <a id="markdown-component-signals---settings-component-for-shutdown-signaling" name="component-signals---settings-component-for-shutdown-signaling"></a>
 # component-signals - Settings component for shutdown signaling
-
+[![GoDoc](https://godoc.org/github.com/asecurityteam/component-signals?status.svg)](https://godoc.org/github.com/asecurityteam/component-signals)
 <!-- TOC -->
 
 - [component-signals - Settings component for shutdown signaling](#component-signals---settings-component-for-shutdown-signaling)
