@@ -1,20 +1,9 @@
-<a id="markdown-component-signals---settings-component-for-shutdown-signaling" name="component-signals---settings-component-for-shutdown-signaling"></a>
 # component-signals - Settings component for shutdown signaling
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-signals?status.svg)](https://godoc.org/github.com/asecurityteam/component-signals)
-<!-- TOC -->
+[![Build Status](https://travis-ci.org/asecurityteam/component-signals.png?branch=master)](https://travis-ci.org/asecurityteam/component-signals)
+[![codecov.io](https://codecov.io/github/asecurityteam/component-signals/coverage.svg?branch=master)](https://codecov.io/github/asecurityteam/component-signals?branch=master)
+<!-- TOC -->autoauto- [component-signals - Settings component for shutdown signaling](#component-signals---settings-component-for-shutdown-signaling)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
-- [component-signals - Settings component for shutdown signaling](#component-signals---settings-component-for-shutdown-signaling)
-    - [Overview](#overview)
-    - [Quick Start](#quick-start)
-    - [Status](#status)
-    - [Contributing](#contributing)
-        - [Building And Testing](#building-and-testing)
-        - [License](#license)
-        - [Contributing Agreement](#contributing-agreement)
-
-<!-- /TOC -->
-
-<a id="markdown-overview" name="overview"></a>
 ## Overview
 
 This is a [`settings`](https://github.com/asecurityteam/settings) that enables
@@ -22,7 +11,6 @@ constructing a metrics gathering component that orchestrates fanning in various
 shutdown signals for a system. It currently support OS signals but can be
 extended to support other forms.
 
-<a id="markdown-quick-start" name="quick-start"></a>
 ## Quick Start
 
 ```golang
@@ -33,7 +21,7 @@ import (
     "net/http"
 
     signals "github.com/asecurityteam/component-signals"
-    "github.com/asecurityteam/settings"
+    "github.com/asecurityteam/settings/v2"
 )
 
 func main() {
@@ -47,16 +35,13 @@ func main() {
 }
 ```
 
-<a id="markdown-status" name="status"></a>
 ## Status
 
 This project is in incubation which means we are not yet operating this tool in
 production and the interfaces are subject to change.
 
-<a id="markdown-contributing" name="contributing"></a>
 ## Contributing
 
-<a id="markdown-building-and-testing" name="building-and-testing"></a>
 ### Building And Testing
 
 We publish a docker image called [SDCLI](https://github.com/asecurityteam/sdcli) that
@@ -84,12 +69,10 @@ the Makefile:
 
     Report the combined coverage for unit and integration tests
 
-<a id="markdown-license" name="license"></a>
 ### License
 
 This project is licensed under Apache 2.0. See LICENSE.txt for details.
 
-<a id="markdown-contributing-agreement" name="contributing-agreement"></a>
 ### Contributing Agreement
 
 Atlassian requires signing a contributor's agreement before we can accept a patch. If
