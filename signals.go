@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/asecurityteam/settings"
+	"github.com/asecurityteam/settings/v2"
 )
 
 func fanIn(sigs []Signal) Signal {
