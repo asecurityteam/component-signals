@@ -1,5 +1,19 @@
 # component-signals - Settings component for shutdown signaling
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-signals?status.svg)](https://godoc.org/github.com/asecurityteam/component-signals)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=bugs)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=code_smells)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=coverage)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=ncloc)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=alert_status)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=security_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=sqale_index)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-signals&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=asecurityteam_component-signals)
+
+
 <!-- TOC -->autoauto- [component-signals - Settings component for shutdown signaling](#component-signals---settings-component-for-shutdown-signaling)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
 ## Overview
