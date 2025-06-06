@@ -1,6 +1,6 @@
 module github.com/asecurityteam/component-signals
 
-go 1.22
+go 1.24.4
 
 toolchain go1.24.3
 
